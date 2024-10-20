@@ -6,14 +6,14 @@ export const MOVIE_LIST= {
         method: 'GET',
         headers: {
         accept: 'application/json',
-        Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwMWMxYzFjNmQ4NjI1YzY3Zjk5YTAyYzRlMmU5NmIzMiIsIm5iZiI6MTcyMDE4NDEzMy42NzQ4MTYsInN1YiI6IjY2ODdlNmFmZjkwZmJhMDU2N2IzMzNlMCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.zEqm80nryQlglgoUeExCZVlgbyLy32ZZYifvW3v736A'
+        Authorization: '*************************************************************'
         }
     };
 
-    export const POSTER_CDN="https://image.tmdb.org/t/p/w500/"
+    export const POSTER_CDN="***********************************************"
 
-    export const POPULAR_MOVIES ="https://api.themoviedb.org/3/movie/popular"
+    export const POPULAR_MOVIES ="************************************************"
 
-    export const UPCOMING_MOVIES ="https://api.themoviedb.org/3/movie/upcoming"
+    export const UPCOMING_MOVIES ="**********************************************"
 
-    export const TRENDING_TV_SHOWS ='https://api.themoviedb.org/3/trending/tv/day?language=en-US'
+    export const TRENDING_TV_SHOWS ='************************************************'
